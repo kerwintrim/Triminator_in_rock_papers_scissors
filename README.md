@@ -1,0 +1,1 @@
+# Triminator_in_rock_papers_scissors
